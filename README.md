@@ -4,7 +4,7 @@
 ![GitHub User Language Statistics Dark](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GitHub User Language Statistics Light](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/languages.svg#gh-light-mode-only)
 
-##Hi, I'm Caleb!
+## Hi, I'm Caleb!
 
 From a young age, my curiosity was my guiding force. I vividly remember being eight years old, digging in my backyard with my brother, fascinated by the temperature change just five feet below ground. This innate curiosity led me to become a passionate observer of the world, constantly seeking to understand the underlying mechanisms of everything I encountered.
 
