@@ -1,6 +1,8 @@
 ![GitHub User Statistics Dark](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/overview.svg#gh-dark-mode-only)
 ![GitHub User Statistics Light](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/overview.svg#gh-light-mode-only)
 
+![My Repositories](https://github.com/calebbarzee?tab=repositories)
+
 
 ## 👨‍💻 Hi, I'm Caleb!
 An experienced software engineer with a boundless passion for technology. My journey, rooted in a childhood filled with curiosity and exploration, has blossomed into an immersive career in the digital world.
@@ -16,3 +18,4 @@ Rust is my go-to language, renowned for its performance and safety. It aligns wi
 
 ## 🤝 Connect & Collaborate:
 If you're driven by the power of technology to change lives, or if you're seeking a conversation filled with insights and ideas, let's connect. Together, we can explore new frontiers in software development and make a signicifant impact. Feel free to reach out!
+
