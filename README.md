@@ -1,7 +1,7 @@
 ![GitHub User Statistics Dark](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/overview.svg#gh-dark-mode-only)
 ![GitHub User Statistics Light](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/overview.svg#gh-light-mode-only)
 
-![My Repositories](https://github.com/calebbarzee?tab=repositories)
+# [My Repositories](https://github.com/calebbarzee?tab=repositories)
 
 
 ## 👨‍💻 Hi, I'm Caleb!
