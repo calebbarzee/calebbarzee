@@ -4,7 +4,7 @@
 ![GitHub User Language Statistics Dark](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/languages.svg#gh-dark-mode-only)
 ![GitHub User Language Statistics Light](https://raw.githubusercontent.com/calebbarzee/profile_stats/master/generated/languages.svg#gh-light-mode-only)
 
-##👨‍💻 Hi, I'm Caleb!
+## 👨‍💻 Hi, I'm Caleb!
 An experienced software engineer with a boundless passion for technology. My journey, rooted in a childhood filled with curiosity and exploration, has blossomed into an immersive career in the digital world.
 
 ## 🧠 Expertise & Growth:
